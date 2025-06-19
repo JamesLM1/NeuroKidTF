@@ -13,7 +13,7 @@ Astro (recomendado para futuras versiones) – Framework para sitios estáticos 
 FormSubmit – Servicio para envío de formularios sin backend.
 
 GitHub Pages – Hosting del sitio web estático.
-</div> <div align="center">
+
 👥 Equipo de Desarrollo
 James Lucas Moreto - U202317816
 
@@ -22,7 +22,7 @@ Alonso Yataco Anicama - U202314539
 Ashcallay Sanchez Rodrigo - U202310930
 
 Denzel Alberto Castillo Sanchez - U202311836
-</div> <div align="center">
+
 📜 Changelog
 Versión 0.3.2
 Se mejoró la sección de contacto empresarial.
@@ -52,7 +52,7 @@ Estructura inicial del sitio creada.
 Página principal con secciones de introducción, soluciones y navegación funcional.
 
 Se configuró GitHub Pages para despliegue automático.
-</div> <div align="center">
+
 📌 Estado del Proyecto
 🔧 En desarrollo activo – nuevas funcionalidades como sistema de autenticación, reportes cognitivos y generación de alertas serán implementadas en futuras versiones.
 
